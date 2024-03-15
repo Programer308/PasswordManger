@@ -1,4 +1,5 @@
 # Password Management System
+This Password Management System is a Java-based application designed to securely manage and store various user accounts and their passwords. It provides functionalities such as account creation, login, password encryption (using Caesar Cipher), and the management of stored accounts.
 
 ## Features
 
