@@ -25,10 +25,6 @@ This Password Management System is a Java-based application designed to securely
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-MIT License
-
-## Team
 ## Team
 - @Programer308 - Team leader, Programer
 - @Fahad8385 - Programer
